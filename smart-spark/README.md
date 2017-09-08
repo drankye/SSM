@@ -1,0 +1,1 @@
+# Adapted from Apache Spark 2.2.0 release
